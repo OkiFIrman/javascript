@@ -21,7 +21,7 @@
 #cssmenu li:hover > ul > li{height:35px}
 #cssmenu ul ul ul{margin-left:100%;top:0}
 #cssmenu.align-right ul ul ul{margin-left:0;margin-right:100%}
-#cssmenu ul ul li a{border-bottom:1px solid rgba(150,150,150,0.15);padding:11px 15px;width:170px;font-size:12px;text-decoration:none;color:#059c7b;font-weight:400;}
+#cssmenu ul ul li a{border-bottom:1px solid rgba(150,150,150,0.15);padding:11px 15px;width:170px;font-size:12px;text-decoration:none;color:#059c7b;font-weight:400;background:#ffffff}
 #cssmenu ul ul li:last-child > a,#cssmenu ul ul li.last-item > a{border-bottom:0}
 #cssmenu ul ul li:hover > a,#cssmenu ul ul li a:hover{color:#25a186}
 #cssmenu ul ul li.has-sub > a:after{position:absolute;top:16px;right:11px;width:8px;height:2px;display:block;background:#dddddd;content:''}
